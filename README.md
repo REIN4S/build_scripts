@@ -17,7 +17,7 @@ Here's why Makefile:
 
 ## Getting Started
 
-This is an example of build, test for Nim language.
+This is an example of build, test for each language.
 
 * for Build:
 
